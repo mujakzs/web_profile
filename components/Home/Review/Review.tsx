@@ -61,7 +61,7 @@ const Review = () => {
                     <ReviewCard reviewTitle="Creative Work" userName="Andrian Doe" userImage="/images/c2.png" role="Web Developer"/>
                     <ReviewCard reviewTitle="Awesome Work" userName="Rence Doe" userImage="/images/c3.png" role="App Developer"/>
 
-                </Carousel>;
+                </Carousel>
             </div>
 
         </div>
