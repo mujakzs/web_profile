@@ -17,13 +17,13 @@ const Software = () => {
 
         {/* Cards */}
         <div className='w-[80%] mx-auto mt-16 grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-10'>
-            <div>
+            <div data-aos="fade-up" data-aos-anchor-placement="top-bottom">
                 <SoftwareCard icon="/images/i1.png" title="Best Marketing Software"/>
             </div>
-            <div>
+            <div data-aos="fade-up" data-aos-anchor-placement="center-bottom">
                 <SoftwareCard icon="/images/i2.png" title="Best Marketing Software"/>
             </div>
-            <div>
+            <div data-aos="fade-up" data-aos-anchor-placement="bottom-bottom">
                 <SoftwareCard icon="/images/i3.png" title="Best Marketing Software"/>
             </div>
         </div>

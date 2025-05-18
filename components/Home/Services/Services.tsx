@@ -8,7 +8,7 @@ const Services = () => {
 
             {/* Section Heading */}
             <div className='grid grid-cols-1 lg:grid-cols-2 gap-10 items-center'>
-                <div>
+                <div data-aos="fade-right">
                      <h1 className='text-lg sm:text-xl md:text-2xl font-bold text-blue-700 dark:text-pink-500 uppercase'>
                         What we provide
                     </h1>
@@ -16,7 +16,7 @@ const Services = () => {
                         Provide High Quality Software's Services for All Industy
                     </h1>
                 </div>
-                <div className='lg:ml-auto'>
+                <div data-aos="fade-left" className='lg:ml-auto'>
                     <a href='#'
                         className='w-full py-4 text-base sm:text-lg md:text-xl text-center text-white transition-colors
                         font-semibold duration-300 bg-blue-800 rounded-full uppercase hover:bg-blue-950 ease px-9 md:w-auto'>
@@ -27,37 +27,37 @@ const Services = () => {
 
             {/* Services Card */}
             <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 items-center mt-16'>
-                <div>
+                <div data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="500">
                     <ServiceCard
                     image="/images/s1.png"
                     title="Custom Software Development"
                     />
                 </div>
-                <div>
+                <div data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="500">
                     <ServiceCard
                     image="/images/s2.png"
                     title="Website Design & Development"
                     />
                 </div>
-                <div>
+                <div data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="500">
                     <ServiceCard
                     image="/images/s3.png"
                     title="Cloud Computing and Hosting Service"
                     />
                 </div>
-                <div>
+                <div data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="500">
                     <ServiceCard
                     image="/images/s4.png"
                     title="Ai and Machine Learning Integration"
                     />
                 </div>
-                <div>
+                <div data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="500">
                     <ServiceCard
                     image="/images/s5.png"
                     title="Android and IOS Development"
                     />
                 </div>
-                <div>
+                <div data-aos="fade-up" data-aos-anchor-placement="top-bottom" data-aos-delay="500">
                     <ServiceCard
                     image="/images/s6.png"
                     title="3D Graphics & Vector Design"

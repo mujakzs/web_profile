@@ -6,7 +6,7 @@ const Hero = () => {
         <div className='w-[90%] md:w-[80%] mx-auto items-center grid grid-cols-1 xl:grid-cols-2 gap-10 '>
 
             {/* Text Content */}
-            <div>
+            <div data-aos="fade-right" data-aos-delay="500">
                 {/* Subheading */}
                 <p className='text-sm sm:text-base md:text-xl font-bold text-white'>
                     The Top Software Development Company
@@ -36,7 +36,7 @@ const Hero = () => {
             </div>
 
             {/* Image Content */}
-            <div className='mx-auto hidden xl:block'>
+            <div data-aos="zoom-in" data-aos-delay="500" className='mx-auto hidden xl:block'>
                 <img src="/images/hero.png" alt="Hero Image" width={900} height={900} />
             </div>
 

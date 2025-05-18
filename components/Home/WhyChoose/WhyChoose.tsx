@@ -68,7 +68,7 @@ const WhyChoose = () => {
             </div>
 
             {/* Image Content */}
-            <div>
+            <div data-aos="zoom-out-left" data-aos-delay="400">
                 <Image 
                     src="/images/wc.png"
                     alt="image" 
