@@ -39,17 +39,17 @@ const Nav = ({openNav} : Props) => {
         
 
         {/* LOGO */}
-        <div className='flex items-center space-x-2'>
+        <Link href="https://www.facebook.com/rapidsignalelectronics/" className='flex items-center space-x-2 cursor-pointer'>
           <div className='w-10 h-10 bg-pink-500 rounded-full flex items-center justify-center flex-col'>
             <GrTechnology className='w-6 h-6 text-white' />
-          </div>
+          </div>  
           <h1 className='text-xl hidden sm:block md:text-2xl text-white font-bold'>
             RSE
           </h1>
-        </div>
+        </Link>
 
         {/* NAVIGATION  LINKS*/}
-        <div className='hidden lg:flex items-center space-x-10'>
+        <div className='hidden lg:flex items-center  space-x-10'>
           {NavLinks.map((link)=>{
             return (
               <Link 

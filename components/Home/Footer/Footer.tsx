@@ -4,7 +4,7 @@ import { GrTechnology } from 'react-icons/gr'
 
 const Footer = () => {
   return (
-    <div className='pt-16 pb-16 bg-blue-950'>
+    <div className='pt-16 pb-16 bg-blue-950' id="footer">
         <div className='w-[80%] mx-auto items-start grid-cols-1 sm:grid-cols-2 grid md:grid-cols-2 lg:grid-cols-4 gap-10'> 
             {/* 1st Part */}
             <div>

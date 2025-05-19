@@ -3,7 +3,7 @@ import ServiceCard from './ServiceCard'
 
 const Services = () => {
   return (
-    <div className='pt-16 pb-16'>
+    <div className='pt-16 pb-16' id='services'>
         <div className='w-[80%] mx-auto'>
 
             {/* Section Heading */}
