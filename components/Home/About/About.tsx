@@ -3,7 +3,7 @@ import Image from 'next/image';
 
 const About = () => {
   return (
-    <div className='pt-6 pb-16'>
+    <div className='pt-6 pb-16' id="about">
         <div className='w-[80%] mx-auto grid grid-cols-1 lg:grid-cols-2 gap-10 items-center'>
             {/* Image Content */}
             <div data-aos="zoom-in-down" data-aos-delay="200">

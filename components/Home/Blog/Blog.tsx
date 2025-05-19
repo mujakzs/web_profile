@@ -3,7 +3,7 @@ import BlogCard from './BlogCard'
 
 const Blog = () => {
   return (
-    <div className='pt-16 pb-16'>
+    <div className='pt-16 pb-16' id="blog">
         {/* Heading */}
         <div className='text-center'>
             {/* Subheading */}
