@@ -67,7 +67,7 @@ const Footer = () => {
                 </div>
                 <div className='mt-6'>
                     <h1 className='text-sm text-white'>Email</h1>
-                    <h1 className='text-base font-bold text-yellow-300 mt-1'>RapidSignalE@gmail.com</h1>
+                    <h1 className='text-base font-bold text-yellow-300 mt-1'>andriangultiano14@gmail.com</h1>
                 </div>
             </div>
         </div>
