@@ -19,7 +19,7 @@ const About = () => {
                 </h1>
                 <p className='mt-3 text-gray-700 dark:text-gray-300'>
                     As an Application Lead, 
-                    I’ve gained extensive experience in managing SQL queries to support end users and ensure seamless operations. 
+                    Ive gained extensive experience in managing SQL queries to support end users and ensure seamless operations. 
                     I also contribute to developing and enhancing system features to improve usability and overall user experience. 
                     Additionally, I am part of the core development team responsible for building the company's new system.
                 </p>

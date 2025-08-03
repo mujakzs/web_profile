@@ -1,4 +1,5 @@
 import React from 'react'
+import Image from 'next/image'
 import { FaFacebookSquare, FaGithubSquare, FaInstagramSquare, FaLinkedin } from 'react-icons/fa'
 
 const Hero = () => {
@@ -42,8 +43,7 @@ const Hero = () => {
 
                 <div className='relative hidden lg:block w-[500px] h-[500px] rounded-full bg-gradient-to-br from-slate-400 via-slate-500 to-slate-600 p-2' data-aos="zoom-in" data-aos-delay="500">
                      {/* Emoji Decorations */}
-                    <span className='absolute top-0 right-[5%] text-5xl animate-bounce z-10'><span className='text-black text-sm font-extrabold z-10 bg-white p-2'>Welcome</span>😎</span>
-                    <img src="/images/andri.png" alt="Hero Image" width={500} height={500} className='w-full h-full object-cover rounded-full border-4 border-slate-600 hover:scale-105 transition-transform duration-300' />
+                    <Image src="/images/andri.png" alt="Hero Image" width={500} height={500} className='w-full h-full object-cover rounded-full border-4 border-slate-600 hover:scale-105 transition-transform duration-300' />
                 </div>
 
                  {/* Social Accounts */}
