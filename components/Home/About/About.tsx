@@ -21,7 +21,7 @@ const About = () => {
                     As an Application Lead, 
                     Ive gained extensive experience in managing SQL queries to support end users and ensure seamless operations. 
                     I also contribute to developing and enhancing system features to improve usability and overall user experience. 
-                    Additionally, I am part of the core development team responsible for building the company's new system.
+                    Additionally, I am part of the core development team responsible for building the company&apos;s new system.
                 </p>
                 <div className='mt-6 grid grid-cols-1 sm:grid-cols-2 gap-6 items-center'>
                     <div className='flex items-center gap-4'>

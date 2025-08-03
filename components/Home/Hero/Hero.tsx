@@ -11,7 +11,7 @@ const Hero = () => {
             <div data-aos="fade-right" data-aos-delay="500">
                 {/* Subheading */}
                 <p className='text-sm sm:text-base md:text-xl font-bold text-white'>
-                    Hi! I'm Engr. Andrian Gultiano from the Philippines <span className='animate-pulse'>👋</span>
+                    Hi! I&apos;m Engr. Andrian Gultiano from the Philippines <span className='animate-pulse'>👋</span>
                 </p>
 
                 {/* Heading */}
@@ -21,7 +21,7 @@ const Hero = () => {
 
                 {/* Description */}
                 <p className='text-sm sm:text-base md:text-lg font-medium text-gray-300'>
-                    I'm a simple guy who loves playing Dota and diving into the world of technology. 
+                    I&apos;m a simple guy who loves playing Dota and diving into the world of technology. 
                     Always eager to learn and grow, I enjoy sharing knowledge and connecting with like-minded enthusiasts.
                 </p>
 
