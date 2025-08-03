@@ -3,7 +3,7 @@ import SoftwareCard from './SoftwareCard'
 
 const Software = () => {
   return (
-    <div className='pt-16 pb-16'>
+    <div className='pt-30 pb-30' id="cert">
         <div className='text-center'>
             {/* Subheading */}
             <h1 className='uppercase text-lg sm:text-xl md:text-2xl font-bold text-blue-700 dark:text-pink-500'>

@@ -11,22 +11,22 @@ export const NavLinks = [
     },
      {
         id: 3,
-        url: '#services',
-        label: 'Projects',
+        url: '#experience',
+        label: 'Experience',
     },
      {
         id: 4,
-        url: '#whychoose',
+        url: '#skill',
         label: 'Skills',
     },
      {
         id: 5,
-        url: '#blog',
-        label: 'Education',
+        url: '#project',
+        label: 'Projects',
     },
      {
         id: 6,
-        url: '#footer',
+        url: '#cert',
         label: 'Certifications',
     },
 ]

@@ -1,16 +1,16 @@
 "use client";
 import React, { useEffect } from 'react'
 import Hero from './Hero/Hero'
-import Services from './Services/Services'
 import About from './About/About'
-import WhyChoose from './WhyChoose/WhyChoose'
 import Software from './Software/Software'
 import Project from './Project/Project'
 import Review from './Review/Review'
 import Blog from './Blog/Blog'
-
 import AOS from 'aos';
 import 'aos/dist/aos.css'; // You can also use <link> for styles
+import Experience from './Experience/Experience';
+import Skill from './Skills/skills';
+
 
 
 const Home = () => {
@@ -33,10 +33,10 @@ const Home = () => {
     <div className='overflow-hidden'>
       <Hero />
       <About />
-      <Services />
-      <WhyChoose />
-      <Software />
+      <Experience/>
+      <Skill />
       <Project />
+      <Software />
       <Review />
       <Blog />
     </div>

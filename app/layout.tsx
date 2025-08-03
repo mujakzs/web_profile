@@ -12,8 +12,8 @@ const font = Rajdhani({
   weight: ["300", "400", "500", "600", "700"],
 });
 export const metadata: Metadata = {
-  title: "RSE",
-  description: "Rapid Signal Electronics",
+  title: "AMG",
+  description: "Andrian M. Gultiano - Portfolio",
 };
 
 export default function RootLayout({

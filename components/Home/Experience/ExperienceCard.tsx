@@ -7,7 +7,7 @@ import { GoArrowUpRight } from 'react-icons/go';
   title: string;
 }
 
-const ServiceCard = ({ image, title } : Props) => {
+const ExperienceCard = ({ image, title } : Props) => {
   return (
     <div className='p-6 cursor-pointer hover:bg-blue-800 transition-all duration-500 group relative
      bg-gray-100 dark:bg-blue-950 shadow rounded-xl'>
@@ -37,4 +37,4 @@ const ServiceCard = ({ image, title } : Props) => {
   )
 }
 
-export default ServiceCard
+export default ExperienceCard
