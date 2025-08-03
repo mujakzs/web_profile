@@ -16,7 +16,7 @@ const SoftwareCard = ({icon, title} : Props) => {
             Inventore iusto animi maxime numquam nostrum laboriosam officiis unde rerum, ea saepe?
         </p>
         <button className='px-6 py-1.5 rounded-full bg-blue-800 mt-4 font-bold hover:bg-blue-950 transition-all duration-200 cursor-pointer text-white'>
-            Learn More
+            view
         </button>
     </div>
   )

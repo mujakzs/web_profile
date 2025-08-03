@@ -7,11 +7,11 @@ const Software = () => {
         <div className='text-center'>
             {/* Subheading */}
             <h1 className='uppercase text-lg sm:text-xl md:text-2xl font-bold text-blue-700 dark:text-pink-500'>
-                Softwares
+                Certificates
             </h1>
             {/* Heading */}
             <h1 className='text-xl sm:text-3xl md:text-4xl mt-1 font-bold'>
-                Driving Change with Innovative <br/> Successful Softwares
+                Achieving certification: a testament to dedication, expertise, and continuous professional growth.
             </h1>
         </div>
 

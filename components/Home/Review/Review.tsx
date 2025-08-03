@@ -24,7 +24,7 @@ const responsive = {
 
 const Review = () => {
   return (
-    <div className='pt-16 pb-16'>
+    <div className='pt-16 pb-16' id ="review">
         <div className='w-[90%] md:w-[80%] mx-auto'>
             {/* Section Heading */}
             <div className='grid grid-cols-1 lg:grid-cols-2 gap-10 items-center'>

@@ -29,4 +29,11 @@ export const NavLinks = [
         url: '#cert',
         label: 'Certifications',
     },
+
+    {
+        id: 7,
+        url: '#review',
+        label: 'Reviews',
+    },
+    
 ]

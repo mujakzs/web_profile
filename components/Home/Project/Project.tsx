@@ -3,7 +3,7 @@ import Image from 'next/image'
 
 const Project = () => {
   return (
-    <div className='pt-30 pb-30' id="project">
+    <div className='pt-16 pb-16' id="project">
         <div className='w-[80%] mx-auto'>
             {/* Section heading */}
             <div className='grid grid-cols-1 lg:grid-cols-2 gap-10 items-center'>

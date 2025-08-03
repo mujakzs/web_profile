@@ -5,7 +5,7 @@ import Image from 'next/image'
 
 const skill = () => {
   return (
-    <div className='pt-30 pb-20' id="skill">
+    <div className='pt-15 pb-15' id="skill">
         <div className='w-[80%] mx-auto grid grid-cols-1 lg:grid-cols-2 gap-10 items-center'>
             {/* Text Content */}
             <div>

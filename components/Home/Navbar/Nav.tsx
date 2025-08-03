@@ -39,7 +39,7 @@ const Nav = ({openNav} : Props) => {
         
 
         {/* LOGO */}
-        <Link href="https://www.facebook.com/rapidsignalelectronics/" className='flex items-center space-x-2 cursor-pointer'>
+        <Link href="https://andrian-gultiano.vercel.app/" className='flex items-center space-x-2 cursor-pointer'>
           <div className='w-10 h-10 bg-gray-500 rounded-full flex items-center justify-center flex-col'>
             <MdEngineering className='w-6 h-6 text-white' />
           </div>  
@@ -67,7 +67,7 @@ const Nav = ({openNav} : Props) => {
 
         <div className='flex items-center space-x-4'>
           {/* 1st Button */}
-          <a href='#' className='px-5 py-2.5 relative rounded group font-medium text-white inline-block'>
+          <a href='#footer' className='px-5 py-2.5 relative rounded group font-medium text-white inline-block'>
             <span className='absolute top-0 left-0 w-full h-full rounded opacity-50 filter blur-sm bg-gradient-to-br 
             from bg-slate-700 to-slate-500'></span>
 

@@ -3,7 +3,7 @@ import ExperienceCard from './ExperienceCard'
 
 const Experience = () => {
   return (
-    <div className='pt-30 pb-20' id='experience'>
+    <div className='pt-15 pb-15' id='experience'>
         <div className='w-[80%] mx-auto'>
 
             {/* Section Heading */}
