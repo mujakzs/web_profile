@@ -60,7 +60,7 @@ const Footer = () => {
 
             {/* 4th Part */}
             <div>
-                <h1 className='text-lg font-bold text-white'>Contact Us</h1>
+                <h1 className='text-lg font-bold text-white'>Contact Me</h1>
                 <div className='mt-6'>
                     <h1 className='text-sm text-white'>Mobile Phone</h1>
                     <h1 className='text-base font-bold text-yellow-300 mt-1'>09670683081</h1>
